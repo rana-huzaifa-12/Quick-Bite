@@ -27,6 +27,14 @@
 
 ---
 
+## Live Demo
+
+You can check out the live demo of the **Quick Bite** app here:
+
+[Live Demo](https://quick-bite-126.netlify.app/)
+
+---
+
 ## Made With ❤️ by
 
 **RANA HUZAIFA**
