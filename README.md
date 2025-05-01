@@ -33,7 +33,7 @@
 
 Follow the creator for updates and more projects:
 
-- **Facebook**: [Quick Bite Facebook](https://www.facebook.com/share/1BDt43hqgW/)
+- **Facebook**: [Rana Huzaifa](https://www.facebook.com/share/1BDt43hqgW/)
 - **Instagram**: [@huzaifa_rajput_126](https://www.instagram.com/huzaifa_rajput_126?igsh=ZXhjMWhuMDJ0MWdv)
 - **LinkedIn**: [@raj-huzaifa](www.linkedin.com/in/raj-huzaifa)
 - **GitHub**: [@rana-huzaifa-12](https://github.com/rana-huzaifa-12)
