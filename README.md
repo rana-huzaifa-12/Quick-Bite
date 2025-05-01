@@ -1,12 +1,45 @@
-# React + Vite
+# Quick Bite - Food Delivery App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Quick Bite** is a user-friendly food delivery web application built with React.js, Redux, and styled using Tailwind CSS. It allows users to browse food items, add them to the cart, and place orders seamlessly. The app features smooth animations, a dynamic navbar, and an interactive cart system for a smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Food Category Filtering**: Easily browse food items by category.
+- **Add to Cart**: Add food items to the cart, with quantity control.
+- **Dynamic Cart**: View cart items, modify quantities, and remove items.
+- **Grand Total Calculation**: Real-time calculation of the subtotal, taxes, delivery fee, and grand total.
+- **Animations**: Smooth and engaging animations using the `AOS` library.
+- **Responsive Design**: Mobile-first approach, fully responsive on all screen sizes.
+- **Social Media Links**: Quick links to social media profiles.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+- **Frontend**: React.js, Redux, Tailwind CSS, AOS
+- **State Management**: Redux Toolkit
+- **Animations**: **AOS (Animate On Scroll)**, **react-type-animation** for dynamic text animations
+- **Icons**: React Icons
+- **Toast Notifications**: react-toastify for success messages
+- **React Hooks**: Use of React Hooks (useState, useEffect, useDispatch, useSelector, etc.)
+
+---
+
+## Made With ❤️ by
+
+**RANA HUZAIFA**
+
+Follow the creator for updates and more projects:
+
+- **Facebook**: [Quick Bite Facebook](https://www.facebook.com/share/1BDt43hqgW/)
+- **Instagram**: [@huzaifa_rajput_126](https://www.instagram.com/huzaifa_rajput_126?igsh=ZXhjMWhuMDJ0MWdv)
+- **LinkedIn**: [@raj-huzaifa](www.linkedin.com/in/raj-huzaifa)
+- **GitHub**: [@rana-huzaifa-12](https://github.com/rana-huzaifa-12)
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
